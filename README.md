@@ -1,1 +1,1 @@
-# lista_cumparaturi
+Această aplicație de listă de cumpărături este realizată utilizând biblioteca tkinter din Python. Ea permite utilizatorului să adauge produse în două categorii: "Food" și "Non-food", să marcheze produsele ca fiind cumpărate și să calculeze costul total al cumpărăturilor pentru fiecare categorie.
